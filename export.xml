@@ -1,0 +1,1456 @@
+<?xml version='1.0' encoding='utf-8'?>
+<yml_catalog date="2021-04-01 12:20">
+  <shop>
+    <name>vk.com</name>
+    <company>vk.com</company>
+    <url>https://vk.com/</url>
+    <currencies>
+      <currency id="RUB" rate="1" />
+    </currencies>
+    <categories>
+      <category id="1">iphone</category>
+      <category id="2">motorola</category>
+      <category id="3">xiaomi</category>
+      <category id="4">samsung</category>
+      <category id="5">dyson</category>
+      <category id="6">sony</category>
+      <category id="7">marshall</category>
+      <category id="8">ремонт</category>
+      <category id="9">замена</category>
+    </categories>
+    <offers>
+      <offer id="1">
+        <price>136000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16 pro max 1Tb desert</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2733259/2a000001922dfaf544538af8748f79bd01d8/orig</picture>
+      </offer>
+      <offer id="2">
+        <price>142000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16 pro max 1Tb natural</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/3912342/2a0000019942a1efaec215a93bc32af70f07/orig</picture>
+      </offer>
+      <offer id="3">
+        <price>141000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16 pro max 1Tb black</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/944742/2a000001921f9e1b0d177ca9772ef1859763/orig</picture>
+      </offer>
+      <offer id="5">
+        <price>117000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16 pro max 512 desert</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2733259/2a000001922dfaf544538af8748f79bd01d8/orig</picture>
+      </offer>
+      <offer id="6">
+        <price>121000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16 pro max 512 natural</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/3912342/2a0000019942a1efaec215a93bc32af70f07/orig</picture>
+      </offer>
+      <offer id="7">
+        <price>116500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16 pro max 512 black</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/944742/2a000001921f9e1b0d177ca9772ef1859763/orig</picture>
+      </offer>
+      <offer id="8">
+        <price>118500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16 pro max 512 white</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/4079840/2a0000019228434a6d26ec1348082d38ed58/orig</picture>
+      </offer>
+      <offer id="9">
+        <price>104500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16 pro max 256 natural</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/3912342/2a0000019942a1efaec215a93bc32af70f07/orig</picture>
+      </offer>
+      <offer id="10">
+        <price>103000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16 pro max 256 black</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/944742/2a000001921f9e1b0d177ca9772ef1859763/orig</picture>
+      </offer>
+      <offer id="11">
+        <price>103500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16 pro max 256 white</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/4079840/2a0000019228434a6d26ec1348082d38ed58/orig</picture>
+      </offer>
+      <offer id="12">
+        <price>130000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16 Pro 1Tb natural</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/3912342/2a0000019942a1efaec215a93bc32af70f07/orig</picture>
+      </offer>
+      <offer id="13">
+        <price>130500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16 Pro 1Tb black</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/1358381/2a0000019381fefe20f49a4ed83bc9f87992/orig</picture>
+      </offer>
+      <offer id="14">
+        <price>131000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16 Pro 1Tb desert</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2733259/2a000001922dfaf544538af8748f79bd01d8/orig</picture>
+      </offer>
+      <offer id="15">
+        <price>131000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16 Pro 1Tb white</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/5567679/2a000001921f94ee31f389d04e0b93c27c7b/orig</picture>
+      </offer>
+      <offer id="16">
+        <price>115000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16 Pro 512 natural</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/3912342/2a0000019942a1efaec215a93bc32af70f07/orig</picture>
+      </offer>
+      <offer id="17">
+        <price>114000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16 Pro 512 black</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/1358381/2a0000019381fefe20f49a4ed83bc9f87992/orig</picture>
+      </offer>
+      <offer id="18">
+        <price>114000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16 Pro 512 desert</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2733259/2a000001922dfaf544538af8748f79bd01d8/orig</picture>
+      </offer>
+      <offer id="19">
+        <price>115000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16 Pro 512 white</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/5567679/2a000001921f94ee31f389d04e0b93c27c7b/orig</picture>
+      </offer>
+      <offer id="20">
+        <price>104000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16 Pro 256 natural</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/3912342/2a0000019942a1efaec215a93bc32af70f07/orig</picture>
+      </offer>
+      <offer id="21">
+        <price>103500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16 Pro 256 black</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/1358381/2a0000019381fefe20f49a4ed83bc9f87992/orig</picture>
+      </offer>
+      <offer id="23">
+        <price>94000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16 Pro 128 natural</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/3912342/2a0000019942a1efaec215a93bc32af70f07/orig</picture>
+      </offer>
+      <offer id="24">
+        <price>91000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16 Pro 128 black</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/1358381/2a0000019381fefe20f49a4ed83bc9f87992/orig</picture>
+      </offer>
+      <offer id="25">
+        <price>88000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16 Pro 128 desert</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2733259/2a000001922dfaf544538af8748f79bd01d8/orig</picture>
+      </offer>
+      <offer id="26">
+        <price>93000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16 Pro 128 white</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/5567679/2a000001921f94ee31f389d04e0b93c27c7b/orig</picture>
+      </offer>
+      <offer id="27">
+        <price>79000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16 Plus 256 teal</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/13944716/2a0000019942c96fb13be207190fd26fd8a0/orig</picture>
+      </offer>
+      <offer id="29">
+        <price>67500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16 Plus 128 teal</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/13944716/2a0000019942c96fb13be207190fd26fd8a0/orig</picture>
+      </offer>
+      <offer id="30">
+        <price>68000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16 Plus 128 ultramarine</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/1530321/2a0000019942c984738c117450e5599a0b4d/orig</picture>
+      </offer>
+      <offer id="31">
+        <price>68500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16 Plus 128 black</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/1356083/2a00000193df584304ffc0a225850e83b290/orig</picture>
+      </offer>
+      <offer id="32">
+        <price>68000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16 Plus 128 white</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2760763/2a0000019942c92c993f51eebe1dec17e197/orig</picture>
+      </offer>
+      <offer id="34">
+        <price>72500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16 256 ultramarine</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2781182/2a0000019942ccbe345bdbadf42be89e3762/orig</picture>
+      </offer>
+      <offer id="35">
+        <price>76000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16 256 black</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/13944716/2a0000019942ccd72b59c9813e6678052b4a/orig</picture>
+      </offer>
+      <offer id="36">
+        <price>75000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16 256 white</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2760763/2a0000019942c92c993f51eebe1dec17e197/orig</picture>
+      </offer>
+      <offer id="37">
+        <price>75500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16 256 pink</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/3912342/2a0000019942cd04c264fa4eab0185cd3a76/orig</picture>
+      </offer>
+      <offer id="38">
+        <price>55000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16E 256 black</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/1643978/2a00000195734a95813ac1433b7581b226ed/orig</picture>
+      </offer>
+      <offer id="39">
+        <price>55000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16E 256 white</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2899371/2a0000019942d0eef781ea7c243dcc3af375/orig</picture>
+      </offer>
+      <offer id="40">
+        <price>46000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16E 128 black</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/1643978/2a00000195734a95813ac1433b7581b226ed/orig</picture>
+      </offer>
+      <offer id="41">
+        <price>46000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16E 128 white</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2899371/2a0000019942d0eef781ea7c243dcc3af375/orig</picture>
+      </offer>
+      <offer id="42">
+        <price>66000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16 128 ultramarine</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2781182/2a0000019942ccbe345bdbadf42be89e3762/orig</picture>
+      </offer>
+      <offer id="43">
+        <price>66000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16 128 black</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/13944716/2a0000019942ccd72b59c9813e6678052b4a/orig</picture>
+      </offer>
+      <offer id="44">
+        <price>66000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16 128 white</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2760763/2a0000019942cd6c04317a7f16d3c15804cf/orig</picture>
+      </offer>
+      <offer id="45">
+        <price>65000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16 128 pink</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2701203/2a000001991fcf37b9e69bd381bb3c527030/orig</picture>
+      </offer>
+      <offer id="46">
+        <price>125000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>MacBook Pro 14 M4 16/512 black</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/3911103/2a000001991ff18eec38952437c49b1fc354/orig</picture>
+      </offer>
+      <offer id="47">
+        <price>97000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>MacBook Air 15 M4 16/256 midnight</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2510998/2a000001991feca9eabe288b62d42deebf58/orig</picture>
+      </offer>
+      <offer id="48">
+        <price>97500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>MacBook Air 15 M4 16/256 silver</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/13672565/2a000001991feb4a2aaafc7e9c2885db1073/orig</picture>
+      </offer>
+      <offer id="49">
+        <price>97000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>MacBook Air 15 M4 16/256 skyblue</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2893106/2a000001991febf345135e8335e2a67e2fc8/orig</picture>
+      </offer>
+      <offer id="50">
+        <price>97000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>MacBook Air 15 M4 16/256 starlight</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2510998/2a000001991fed8004e42620ccee842230fd/orig</picture>
+      </offer>
+      <offer id="51">
+        <price>96000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>MacBook Air 13 M4 16/512 midnight</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2510998/2a000001991feca9eabe288b62d42deebf58/orig</picture>
+      </offer>
+      <offer id="52">
+        <price>97000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>MacBook Air 13 M4 16/512 skyblue</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2893106/2a000001991febf345135e8335e2a67e2fc8/orig</picture>
+      </offer>
+      <offer id="53">
+        <price>98000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>MacBook Air 13 M4 16/512 silver</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/13672565/2a000001991feb4a2aaafc7e9c2885db1073/orig</picture>
+      </offer>
+      <offer id="54">
+        <price>96000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>MacBook Air 13 M4 16/512 starlight</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2510998/2a000001991fed8004e42620ccee842230fd/orig</picture>
+      </offer>
+      <offer id="55">
+        <price>79000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>MacBook Air 13 M4 16/256 starlight</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2510998/2a000001991fed8004e42620ccee842230fd/orig</picture>
+      </offer>
+      <offer id="56">
+        <price>79000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>MacBook Air 13 M4 16/256 midnight</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2510998/2a000001991feca9eabe288b62d42deebf58/orig</picture>
+      </offer>
+      <offer id="57">
+        <price>79000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>MacBook Air 13 M4 16/256 skyblue</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2893106/2a000001991febf345135e8335e2a67e2fc8/orig</picture>
+      </offer>
+      <offer id="58">
+        <price>81000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>MacBook Air 13 M4 16/256 silver</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/13672565/2a000001991feb4a2aaafc7e9c2885db1073/orig</picture>
+      </offer>
+      <offer id="59">
+        <price>92000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>MacBook Pro 14 M3 8/512 gray</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2701203/2a00000193ba02afd88e4e495d0c615f9cb8/orig</picture>
+      </offer>
+      <offer id="60">
+        <price>53500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>MacBook M1 8/256 gray</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2760763/2a0000019942da12f249dfda3424558bc302/orig</picture>
+      </offer>
+      <offer id="61">
+        <price>67000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16 128 teal</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2701203/2a000001991fcf37b9e69bd381bb3c527030/orig</picture>
+      </offer>
+      <offer id="62">
+        <price>100500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16 pro 256 desert</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/5567679/2a00000195b865c5c87a5ad86a8c4fb42de7/orig</picture>
+      </offer>
+      <offer id="63">
+        <price>103000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16 pro max 256 desert</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/13672565/2a00000199214310c2ab64aef8b8d27e7a0c/orig</picture>
+      </offer>
+      <offer id="64">
+        <price>17000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <name>Moto G75 8/256 Black -</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2781182/2a000001991422dad74335d249d25a22085a/orig</picture>
+      </offer>
+      <offer id="66">
+        <price>16000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <name>Xiaomi Redmi Note 14 8/256 blue</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2757887/2a0000019914231a7df8586351b405178d7d/orig</picture>
+      </offer>
+      <offer id="67">
+        <price>16500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <name>Xiaomi Redmi Note 14 8/256 black</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2893106/2a000001991422fce1fc587619443e0937ff/orig</picture>
+      </offer>
+      <offer id="68">
+        <price>18000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <name>Note 14S 8/256 black</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2899371/2a0000019914235145b6a84242d24341440c/orig</picture>
+      </offer>
+      <offer id="69">
+        <price>21000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <name>Xiaomi Redmi Note 14 Pro 8/256 sand gold</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2893106/2a00000199142370d5630d0327dde327f495/orig</picture>
+      </offer>
+      <offer id="70">
+        <price>21000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <name>Xiaomi Redmi Note 14 Pro 8/256 blue</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/13944716/2a000001949aac65366432f730dd3cfa1577/orig</picture>
+      </offer>
+      <offer id="71">
+        <price>21000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <name>Xiaomi Redmi Note 14 Pro 8/256 purple</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2808945/2a0000019769c1b1240cd03012eabb148089/orig</picture>
+      </offer>
+      <offer id="72">
+        <price>21000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <name>Xiaomi Redmi Note 14 Pro 8/256 black</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2757887/2a0000019769c1b21d407d2107dd8b00fbf9/orig</picture>
+      </offer>
+      <offer id="73">
+        <price>24500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <name>Xiaomi Redmi Note 14 Pro 12/512 black</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2757887/2a0000019769c1b21d407d2107dd8b00fbf9/orig</picture>
+      </offer>
+      <offer id="74">
+        <price>11500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Samsung Galaxy A06 4/128. Blue</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/13944716/2a0000019914247708112ea31da5f842a397/orig</picture>
+      </offer>
+      <offer id="75">
+        <price>14000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Samsung Galaxy A16 6/128 black</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2808945/2a0000019914249077c9cfad2fb8e96a7455/orig</picture>
+      </offer>
+      <offer id="76">
+        <price>14500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Samsung Galaxy A16 6/128 green</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/1540730/2a00000198477764b1b52644355062b2d4cf/orig</picture>
+      </offer>
+      <offer id="77">
+        <price>18000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Samsung Galaxy A16 8/256. Green</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/1540730/2a00000198477764b1b52644355062b2d4cf/orig</picture>
+      </offer>
+      <offer id="78">
+        <price>18000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Samsung Galaxy A16 8/256. Black</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2808945/2a0000019914249077c9cfad2fb8e96a7455/orig</picture>
+      </offer>
+      <offer id="79">
+        <price>18000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Samsung Galaxy A16 8/256. Gray</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/1644120/2a000001991424f6f6fcfb0a9b1e30dd64ef/orig</picture>
+      </offer>
+      <offer id="81">
+        <price>22500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Samsung Galaxy A26 8/256. White</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/4078836/2a000001991425d621e85f10ee9bf853cab5/orig</picture>
+      </offer>
+      <offer id="82">
+        <price>22500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Samsung Galaxy A26 8/256. Pink</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/1521147/2a0000019809a98c65ab031006230ca93068/orig</picture>
+      </offer>
+      <offer id="83">
+        <price>20500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Samsung Galaxy A35 8/128. IceBlue</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2760763/2a000001991426114b9bc085a2d6100dbe98/orig</picture>
+      </offer>
+      <offer id="84">
+        <price>23500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Samsung Galaxy A36 6/128. White</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/3912342/2a000001991426536fd03e86ad651b6c2ab9/orig</picture>
+      </offer>
+      <offer id="85">
+        <price>23500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Samsung Galaxy A36 6/128. Black</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/1530321/2a000001969100ae881fea3ada0f407a9f4e/orig</picture>
+      </offer>
+      <offer id="86">
+        <price>25000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Samsung Galaxy A36 8/256. Black</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/1530321/2a000001969100ae881fea3ada0f407a9f4e/orig</picture>
+      </offer>
+      <offer id="87">
+        <price>25000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Samsung Galaxy A36 8/256. White</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/3912342/2a000001991426536fd03e86ad651b6c2ab9/orig</picture>
+      </offer>
+      <offer id="88">
+        <price>26500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Samsung Galaxy A55 8/128. Navy</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/3912342/2a000001971cb27e678d024c3d83ea2df09d/orig</picture>
+      </offer>
+      <offer id="89">
+        <price>26500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Samsung Galaxy A55 8/128. Lilac</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2781182/2a0000019914270833d68c50a2487cfd4179/orig</picture>
+      </offer>
+      <offer id="90">
+        <price>27000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Samsung Galaxy A55 8/128 IceBlue</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2781182/2a000001991427228d33c4d4dd9b3a1220a6/orig</picture>
+      </offer>
+      <offer id="91">
+        <price>27500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Samsung Galaxy A55 8/256 Lilac</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2781182/2a0000019914270833d68c50a2487cfd4179/orig</picture>
+      </offer>
+      <offer id="92">
+        <price>28500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Samsung Galaxy A55 12/256 Navy</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/3912342/2a000001971cb27e678d024c3d83ea2df09d/orig</picture>
+      </offer>
+      <offer id="93">
+        <price>28500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Samsung Galaxy A55 12/256 Lilac</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2781182/2a0000019914270833d68c50a2487cfd4179/orig</picture>
+      </offer>
+      <offer id="94">
+        <price>27000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Samsung Galaxy A56 8/128. Pink</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2791887/2a000001991e15faddf77500e719f9e4ff7a/orig</picture>
+      </offer>
+      <offer id="95">
+        <price>27500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Samsung Galaxy A56 8/128. Olive</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2510998/2a000001991e2771d65ab543cb1eb160386c/orig</picture>
+      </offer>
+      <offer id="98">
+        <price>29500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Samsung Galaxy A56 8/256. Olive</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2510998/2a000001991e2771d65ab543cb1eb160386c/orig</picture>
+      </offer>
+      <offer id="99">
+        <price>29500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Samsung Galaxy A56 8/256. Pink</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2791887/2a000001991e15faddf77500e719f9e4ff7a/orig</picture>
+      </offer>
+      <offer id="100">
+        <price>29500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Samsung Galaxy A56 8/256. LightGray</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2701203/2a000001991e27912dc94208a2a3c7adf59a/orig</picture>
+      </offer>
+      <offer id="101">
+        <price>29500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Samsung Galaxy A56 8/256. Graphite</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2760763/2a000001991e27b559369c8be9633173d507/orig</picture>
+      </offer>
+      <offer id="102">
+        <price>31500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Samsung Galaxy A56 12/256. Lightgray</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2701203/2a000001991e27912dc94208a2a3c7adf59a/orig</picture>
+      </offer>
+      <offer id="103">
+        <price>32500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Samsung Galaxy A56 12/256. Graphite</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2760763/2a000001991e27b559369c8be9633173d507/orig</picture>
+      </offer>
+      <offer id="104">
+        <price>40500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Samsung Galaxy S24 FE 8/256 mint</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/13672565/2a000001991e28c41f9d33bee1fad8366360/orig</picture>
+      </offer>
+      <offer id="105">
+        <price>40500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Samsung Galaxy S24 FE 8/256 gray</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2808945/2a000001991e29cbaaaca1dcc8327d6dcf0b/orig</picture>
+      </offer>
+      <offer id="106">
+        <price>40000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Samsung Galaxy S24 FE 8/256 graphite</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2893106/2a000001991e29ed80d7111789c94278ef0d/orig</picture>
+      </offer>
+      <offer id="107">
+        <price>67000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Samsung Galaxy S24 Ultra 12/256 gray</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/4078836/2a000001991e2a0eb10bd62dcc6535cb94f1/orig</picture>
+      </offer>
+      <offer id="109">
+        <price>59500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Samsung Galaxy S25 12/256 blueblack</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/4079840/2a000001991e2ad3c31543638533fa341d66/orig</picture>
+      </offer>
+      <offer id="110">
+        <price>57000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Samsung Galaxy S25 12/256 iceblue</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2733259/2a000001991e2af71aa1ae045bb3f3fbce20/orig</picture>
+      </offer>
+      <offer id="111">
+        <price>57500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Samsung Galaxy S25 12/256 mint</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2893106/2a000001991e2b1a0c821e00af1f4feac338/orig</picture>
+      </offer>
+      <offer id="112">
+        <price>58500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Samsung Galaxy S25 12/256 silver</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/13488316/2a000001991e2b4ca068e6c5d838c69e17b9/orig</picture>
+      </offer>
+      <offer id="113">
+        <price>64000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Samsung Galaxy S25 edge 12/256 silver</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/1521147/2a000001991e2b7132a95a74b9f8256bb21d/orig</picture>
+      </offer>
+      <offer id="114">
+        <price>64000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Samsung Galaxy S25 edge 12/256 black</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2805495/2a000001991e2c637d30ccdd4f1f060e363d/orig</picture>
+      </offer>
+      <offer id="115">
+        <price>64000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Samsung Galaxy S25 edge 12/256 iceblue</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2510998/2a000001991e2c8ded150543106d37688709/orig</picture>
+      </offer>
+      <offer id="116">
+        <price>64500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Samsung Galaxy S25+ 12/256 mint</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2733259/2a000001991e2cb35e5bc0718d80361f34ae/orig</picture>
+      </offer>
+      <offer id="117">
+        <price>75500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Samsung Galaxy S25 Ultra 12/256 black</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/13488316/2a00000194941580c36ba55f88199ead53f8/orig</picture>
+      </offer>
+      <offer id="118">
+        <price>75500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Samsung Galaxy S25 Ultra 12/256 WhiteSilver</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2733259/2a000001949415818b6c98bb92dd7bf98193/orig</picture>
+      </offer>
+      <offer id="119">
+        <price>75500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Samsung Galaxy S25 Ultra 12/256 silverblue</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/4322053/2a000001991e2dc9b10798fbb23d4ba0da67/orig</picture>
+      </offer>
+      <offer id="120">
+        <price>75500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Samsung Galaxy S25 Ultra 12/256 gray</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2893106/2a00000194941580da249ecca6708b155e8b/orig</picture>
+      </offer>
+      <offer id="121">
+        <price>86000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Samsung Galaxy S25 Ultra 12/512. WhiteSilver</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2733259/2a000001949415818b6c98bb92dd7bf98193/orig</picture>
+      </offer>
+      <offer id="122">
+        <price>29000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <name>HTO1 Airstrait Prussian Blue/Copper (без кейса)</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/944742/2a00000194017c74a50c9927eef4504c23e6/orig</picture>
+      </offer>
+      <offer id="123">
+        <price>31000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <name>HTO1 Airstrait Onyx Gold (без кейса)</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2893106/2a000001991fdc4b1b23f18c7800b66f2d3c/orig</picture>
+      </offer>
+      <offer id="125">
+        <price>33000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <name>HT01 Airstrait. Sakura cherry</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/3911103/2a000001991fdcebcdae3060a3dd8a2115e4/orig</picture>
+      </offer>
+      <offer id="126">
+        <price>44000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <name>HS05 long. Nickel/cooper</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2413620/2a000001991fde0c8bb9bb279b19eeca1f10/orig</picture>
+      </offer>
+      <offer id="127">
+        <price>43000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <name>HS08 Ceramic pink /rose gold</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/13672565/2a00000198902fcee13c577903710e27b431/orig</picture>
+      </offer>
+      <offer id="128">
+        <price>43000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <name>HS08 Prussian blue/pich cooper</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/4079840/2a000001991fdf7c371491471543087cb1f5/orig</picture>
+      </offer>
+      <offer id="129">
+        <price>38000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <name>HS08 long iD. Vinca blue</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/4078836/2a000001991fe0792465712c63edb987d51e/orig</picture>
+      </offer>
+      <offer id="130">
+        <price>38000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <name>HS08 long iD. Ceramic patina</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/13672565/2a000001991fe1db51ab68a1433849e04158/orig</picture>
+      </offer>
+      <offer id="132">
+        <price>49000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <name>Play Station 5 Slim. Disk</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/1644120/2a0000019184d4112290322290529c20d0d3/orig</picture>
+      </offer>
+      <offer id="133">
+        <price>39000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPad mini 6 wi-fi 64 purple</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/13852611/2a000001991fe67f81bff23687b5d112d815/orig</picture>
+      </offer>
+      <offer id="134">
+        <price>57000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPad Air 11 M3 wi-fi 256 Starlight</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/13852611/2a000001991fe814d1d7f215a6d8b4c6d1a2/orig</picture>
+      </offer>
+      <offer id="136">
+        <price>47000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPad Air 11 M3 wi-fi 128 purple</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/4079840/2a000001991fe9134800d5115c986d8e1282/orig</picture>
+      </offer>
+      <offer id="137">
+        <price>47500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPad Air 11 M3 wi-fi 128 starlight</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/13852611/2a000001991fe9a0d8b0a503d46bac414a59/orig</picture>
+      </offer>
+      <offer id="139">
+        <price>46500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPad Air 11 M3 wi-fi 128 blue</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/13944716/2a0000019942dc619641d4af3d3138912117/orig</picture>
+      </offer>
+      <offer id="140">
+        <price>50000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPad Air 11 M2 wi-fi 256 Gray</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2773996/2a0000019942dc86a00d35fe01b868829bc9/orig</picture>
+      </offer>
+      <offer id="141">
+        <price>42000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPad 11 2025 256 Wi-fi Pink</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/13944716/2a0000019942dca4e2a246706a184d1b6847/orig</picture>
+      </offer>
+      <offer id="142">
+        <price>42000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPad 11 2025 256 Wi-fi Silver</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/1530321/2a0000019942ad12edc0c9adc3aab6197a78/orig</picture>
+      </offer>
+      <offer id="143">
+        <price>42000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPad 11 2025 256 Wi-fi Blue</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2413620/2a0000019943825d371af45f25462e4a9aad/orig</picture>
+      </offer>
+      <offer id="144">
+        <price>38000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPad 11 2025 128 Wi-fi pink</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/13944716/2a0000019942dca4e2a246706a184d1b6847/orig</picture>
+      </offer>
+      <offer id="145">
+        <price>38000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPad 11 2025 128 Wi-fi Blue</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2413620/2a0000019943825d371af45f25462e4a9aad/orig</picture>
+      </offer>
+      <offer id="146">
+        <price>38000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPad 11 2025 128 wi-fi silver</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/1530321/2a0000019942ad12edc0c9adc3aab6197a78/orig</picture>
+      </offer>
+      <offer id="147">
+        <price>29000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Galaxy Watch ultra white</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/13488316/2a000001965e02c639ab767c9249217ddb2b/orig</picture>
+      </offer>
+      <offer id="148">
+        <price>28500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Galaxy Watch ultra gray</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2773996/2a000001936bd1b77c8f2bd494a0eb21c6fa/orig</picture>
+      </offer>
+      <offer id="149">
+        <price>28500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <name>Galaxy Watch ultra silver</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2773996/2a00000190a51838b5de149936972caea833/orig</picture>
+      </offer>
+      <offer id="150">
+        <price>20000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>Apple Watch SE 40mm. Starlight. Sport loop</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/13944716/2a000001991ff4ce26569d5c0bea5731d555/orig</picture>
+      </offer>
+      <offer id="151">
+        <price>20000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>Apple Watch SE 40mm. Starlight</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/3911103/2a000001936bd1a26cadd299dc1078604beb/orig</picture>
+      </offer>
+      <offer id="152">
+        <price>19500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>Apple Watch SE 40mm. Midnight</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/13944716/2a000001991ff6797170b6f8b76145cf6bc8/orig</picture>
+      </offer>
+      <offer id="153">
+        <price>19500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>Apple Watch SE 40mm. Silver</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/1521147/2a000001936bd1ed4d1c143509088175d2fb/orig</picture>
+      </offer>
+      <offer id="154">
+        <price>22500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>Apple Watch SE 44mm. Silver</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/1521147/2a000001936bd1ed4d1c143509088175d2fb/orig</picture>
+      </offer>
+      <offer id="155">
+        <price>22500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>Apple Watch SE 44mm. Starlight. Sport loop</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/13944716/2a000001991ff4ce26569d5c0bea5731d555/orig</picture>
+      </offer>
+      <offer id="156">
+        <price>22500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>Apple Watch SE 44mm. Starlight</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/3911103/2a000001936bd1a26cadd299dc1078604beb/orig</picture>
+      </offer>
+      <offer id="157">
+        <price>22500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>Apple Watch SE 44mm. Midnight. Sport loop</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/13488316/2a000001991ff82aa96ab037584bdaea5661/orig</picture>
+      </offer>
+      <offer id="158">
+        <price>22500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>Apple Watch SE 44mm. Midnight</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/13944716/2a000001991ff6797170b6f8b76145cf6bc8/orig</picture>
+      </offer>
+      <offer id="159">
+        <price>31500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>Apple Watch Series 10 42mm rose gold. Sport loop</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/13672565/2a000001991ff9626e03aa5f555428d9640a/orig</picture>
+      </offer>
+      <offer id="160">
+        <price>31500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>Apple Watch Series 10 42mm rose gold</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/13944716/2a00000194ef1f0f860b4bd6fff17b1e6a46/orig</picture>
+      </offer>
+      <offer id="161">
+        <price>31000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>Apple Watch Series 10 42mm jet black</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2510998/2a000001957a99d3e5db0ba0b8d096eae7f5/orig</picture>
+      </offer>
+      <offer id="162">
+        <price>33000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>Apple Watch Series 10 46mm rose gold. Sport loop</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/13672565/2a000001991ff9626e03aa5f555428d9640a/orig</picture>
+      </offer>
+      <offer id="163">
+        <price>33000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>Apple Watch Series 10 46mm rose gold</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/13944716/2a00000194ef1f0f860b4bd6fff17b1e6a46/orig</picture>
+      </offer>
+      <offer id="164">
+        <price>35000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>Apple Watch Series 10 46mm black. Sport loop</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/1643978/2a000001992307fe792f0007e3c4e1c14d3d/orig</picture>
+      </offer>
+      <offer id="165">
+        <price>33000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>Apple Watch Series 10 46mm silver. Sport loop</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/3911103/2a000001992307e403031973f9e3d56076c8/orig</picture>
+      </offer>
+      <offer id="166">
+        <price>33000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>Apple Watch Series 10 46mm silver</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/3911103/2a0000019827b5e78e7069de953fcedbe8d3/orig</picture>
+      </offer>
+      <offer id="167">
+        <price>64000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>Apple Watch Ultra 2 black ti black trail loop</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2413620/2a0000019923087ff44c53be158d069fc653/orig</picture>
+      </offer>
+      <offer id="168">
+        <price>59000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>Apple Watch Ultra 2 black ti black ocean band</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2781182/2a00000193ba4f0f02ea875a766f3a1ab244/orig</picture>
+      </offer>
+      <offer id="169">
+        <price>70000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>Apple Watch Ultra 2 black  ti. Milanese</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/1540730/2a000001992308db55d367f074274583ad63/orig</picture>
+      </offer>
+      <offer id="170">
+        <price>65000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>Apple Watch Ultra 2 Natural ti Navy ocean Band</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2510998/2a00000198a9953a656c40f950599718e68b/orig</picture>
+      </offer>
+      <offer id="171">
+        <price>71000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>Apple Watch Ultra 2 Natural ti. Milanese</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/13944716/2a000001992317a786f368e0d0d06fa0eb1c/orig</picture>
+      </offer>
+      <offer id="174">
+        <price>10500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>Pencil 2</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2773996/2a000001992322d977807afaf5f3df24d2aa/orig</picture>
+      </offer>
+      <offer id="176">
+        <price>10000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>Magic Mouse black. Lightning</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/4079840/2a00000198a99541fd4d57f1cfcfab53984f/orig</picture>
+      </offer>
+      <offer id="177">
+        <price>10000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>Magic Mouse white. Lightning</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2773996/2a0000019923235d7910bc9353a3d2801dcf/orig</picture>
+      </offer>
+      <offer id="178">
+        <price>8300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>7</categoryId>
+        <name>Marshall 4 brown</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2893106/2a0000019923237b716ba537dbf10a7cdd22/orig</picture>
+      </offer>
+      <offer id="179">
+        <price>8300</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>7</categoryId>
+        <name>Marshall 4 black</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/218134/2a000001992323c5ffca3a55c35255731587/orig</picture>
+      </offer>
+      <offer id="180">
+        <price>9800</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>7</categoryId>
+        <name>Marshall 5 brown</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/3912342/2a000001992323ff83794a4750520ffef937/orig</picture>
+      </offer>
+      <offer id="181">
+        <price>9800</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>7</categoryId>
+        <name>Marshall 5 black</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2808945/2a000001992324769533b6bca8a999d853f3/orig</picture>
+      </offer>
+      <offer id="183">
+        <price>11700</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>AirPods 3 MagSafe</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/5512660/2a00000184c2a81c5ee15a3a17800309cf2c/orig</picture>
+      </offer>
+      <offer id="184">
+        <price>12000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>AirPods 4</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/4078836/2a00000196383745357df02d2f3843bcad22/orig</picture>
+      </offer>
+      <offer id="185">
+        <price>15800</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>AirPods 4 ANC</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/4078836/2a00000196383745357df02d2f3843bcad22/orig</picture>
+      </offer>
+      <offer id="186">
+        <price>17800</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>AirPods Pro 2 USB-C</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2790747/2a000001936bd1daf36534f47766b3231a0e/orig</picture>
+      </offer>
+      <offer id="187">
+        <price>37500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>AirPods Max green</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/4078836/2a0000019355d2da72039124bd14937bf685/orig</picture>
+      </offer>
+      <offer id="188">
+        <price>38500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>AirPods Max pink</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/1644120/2a0000019923256b9b6016ce918ff91635e6/orig</picture>
+      </offer>
+      <offer id="189">
+        <price>43000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>AirPods Max 2024 orange</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/3912342/2a00000193de7445e37c084311be4d78d1f1/orig</picture>
+      </offer>
+      <offer id="190">
+        <price>43000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>AirPods Max 2024 purple</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/1644120/2a000001992325a3a4097adba12690495938/orig</picture>
+      </offer>
+      <offer id="191">
+        <price>43000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>AirPods Max 2024 blue</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2805495/2a000001992325c3f2e6943f25c4b0713d3b/orig</picture>
+      </offer>
+      <offer id="192">
+        <price>44000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>AirPods Max 2024 starlight</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2510998/2a000001992325e0e35cae00b54ae82d2346/orig</picture>
+      </offer>
+      <offer id="194">
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <name>Ремонт iPhone</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2760763/2a00000191dc27c5e761abb9e69ee2d71911/orig</picture>
+      </offer>
+      <offer id="195">
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Замена аккумуляторов и батарей  на телефонах</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2733259/2a00000191dc1b482d8ac14e3ad9142b006a/orig</picture>
+      </offer>
+      <offer id="196">
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>9</categoryId>
+        <name>Замена экрана на смартфоне</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/1643978/2a00000191dc0de1abbc8b9b79fe1586e09d/orig</picture>
+      </offer>
+      <offer id="197">
+        <price>500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>8</categoryId>
+        <name>Ремонт Мобильного Телефона</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/10118156/2a00000191dc03bb7913a47d6f50ed3fe29e/orig</picture>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
