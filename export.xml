@@ -43,6 +43,14 @@
         <description>Новый, запечатаный товар, по лучшей цене!</description>
         <picture>https://avatars.mds.yandex.net/get-sprav-products/944742/2a000001921f9e1b0d177ca9772ef1859763/orig</picture>
       </offer>
+      <offer id="4">
+        <price>138000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16 pro max 1Tb white</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/4079840/2a0000019228434a6d26ec1348082d38ed58/orig</picture>
+      </offer>
       <offer id="5">
         <price>117000</price>
         <currencyId>RUB</currencyId>
@@ -178,6 +186,14 @@
         <name>iPhone 16 Pro 256 black</name>
         <description>Новый, запечатаный товар, по лучшей цене!</description>
         <picture>https://avatars.mds.yandex.net/get-sprav-products/1358381/2a0000019381fefe20f49a4ed83bc9f87992/orig</picture>
+      </offer>
+      <offer id="22">
+        <price>104000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16 Pro 256 white</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/5567679/2a000001921f94ee31f389d04e0b93c27c7b/orig</picture>
       </offer>
       <offer id="23">
         <price>93000</price>
@@ -1019,6 +1035,14 @@
         <description>Новый, запечатаный товар, по лучшей цене!</description>
         <picture>https://avatars.mds.yandex.net/get-sprav-products/13852611/2a000001991fe9a0d8b0a503d46bac414a59/orig</picture>
       </offer>
+      <offer id="138">
+        <price>47500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPad Air 11 M3 wi-fi 128 gray</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/3911103/2a000001991fea1de42d48e635d5cab7fa67/orig</picture>
+      </offer>
       <offer id="139">
         <price>47000</price>
         <currencyId>RUB</currencyId>
@@ -1282,6 +1306,14 @@
         <name>Apple Watch Ultra 2 Natural ti. Milanese</name>
         <description>Новый, запечатаный товар, по лучшей цене!</description>
         <picture>https://avatars.mds.yandex.net/get-sprav-products/13944716/2a000001992317a786f368e0d0d06fa0eb1c/orig</picture>
+      </offer>
+      <offer id="172">
+        <price>10000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>Pencil 1 USB-C</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/1530321/2a0000019923229b480adb011e94a7d4c528/orig</picture>
       </offer>
       <offer id="174">
         <price>10500</price>
