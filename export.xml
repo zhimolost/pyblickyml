@@ -220,7 +220,7 @@
         <picture>https://avatars.mds.yandex.net/get-sprav-products/13944716/2a0000019942c96fb13be207190fd26fd8a0/orig</picture>
       </offer>
       <offer id="29">
-        <price>70500</price>
+        <price>70000</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <name>iPhone 16 Plus 128 teal</name>
@@ -420,7 +420,7 @@
         <picture>https://avatars.mds.yandex.net/get-sprav-products/2510998/2a000001991fed8004e42620ccee842230fd/orig</picture>
       </offer>
       <offer id="55">
-        <price>79000</price>
+        <price>81000</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <name>MacBook Air 13 M4 16/256 starlight</name>
@@ -436,7 +436,7 @@
         <picture>https://avatars.mds.yandex.net/get-sprav-products/2510998/2a000001991feca9eabe288b62d42deebf58/orig</picture>
       </offer>
       <offer id="57">
-        <price>79000</price>
+        <price>81000</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <name>MacBook Air 13 M4 16/256 skyblue</name>
@@ -444,7 +444,7 @@
         <picture>https://avatars.mds.yandex.net/get-sprav-products/2893106/2a000001991febf345135e8335e2a67e2fc8/orig</picture>
       </offer>
       <offer id="58">
-        <price>81000</price>
+        <price>83000</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <name>MacBook Air 13 M4 16/256 silver</name>
@@ -460,7 +460,7 @@
         <picture>https://avatars.mds.yandex.net/get-sprav-products/2701203/2a00000193ba02afd88e4e495d0c615f9cb8/orig</picture>
       </offer>
       <offer id="60">
-        <price>53500</price>
+        <price>54000</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <name>MacBook M1 8/256 gray</name>
