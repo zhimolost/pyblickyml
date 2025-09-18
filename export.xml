@@ -316,7 +316,7 @@
         <picture>https://avatars.mds.yandex.net/get-sprav-products/2899371/2a0000019942d0eef781ea7c243dcc3af375/orig</picture>
       </offer>
       <offer id="42">
-        <price>68000</price>
+        <price>67500</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <name>iPhone 16 128 ultramarine</name>
@@ -324,7 +324,7 @@
         <picture>https://avatars.mds.yandex.net/get-sprav-products/2781182/2a0000019942ccbe345bdbadf42be89e3762/orig</picture>
       </offer>
       <offer id="43">
-        <price>71000</price>
+        <price>70500</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <name>iPhone 16 128 black</name>
@@ -332,7 +332,7 @@
         <picture>https://avatars.mds.yandex.net/get-sprav-products/13944716/2a0000019942ccd72b59c9813e6678052b4a/orig</picture>
       </offer>
       <offer id="44">
-        <price>69500</price>
+        <price>67000</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <name>iPhone 16 128 white</name>
@@ -340,7 +340,7 @@
         <picture>https://avatars.mds.yandex.net/get-sprav-products/2760763/2a0000019942cd6c04317a7f16d3c15804cf/orig</picture>
       </offer>
       <offer id="45">
-        <price>68500</price>
+        <price>68000</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <name>iPhone 16 128 pink</name>
@@ -996,7 +996,7 @@
         <picture>https://avatars.mds.yandex.net/get-sprav-products/13852611/2a000001991fe67f81bff23687b5d112d815/orig</picture>
       </offer>
       <offer id="134">
-        <price>57000</price>
+        <price>57500</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <name>iPad Air 11 M3 wi-fi 256 Starlight</name>
@@ -1012,7 +1012,7 @@
         <picture>https://avatars.mds.yandex.net/get-sprav-products/4079840/2a000001991fe9134800d5115c986d8e1282/orig</picture>
       </offer>
       <offer id="137">
-        <price>47500</price>
+        <price>48500</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <name>iPad Air 11 M3 wi-fi 128 starlight</name>
@@ -1020,7 +1020,7 @@
         <picture>https://avatars.mds.yandex.net/get-sprav-products/13852611/2a000001991fe9a0d8b0a503d46bac414a59/orig</picture>
       </offer>
       <offer id="139">
-        <price>46500</price>
+        <price>47000</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <name>iPad Air 11 M3 wi-fi 128 blue</name>
@@ -1036,7 +1036,7 @@
         <picture>https://avatars.mds.yandex.net/get-sprav-products/2773996/2a0000019942dc86a00d35fe01b868829bc9/orig</picture>
       </offer>
       <offer id="141">
-        <price>42000</price>
+        <price>44000</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <name>iPad 11 2025 256 Wi-fi Pink</name>
@@ -1044,7 +1044,7 @@
         <picture>https://avatars.mds.yandex.net/get-sprav-products/13944716/2a0000019942dca4e2a246706a184d1b6847/orig</picture>
       </offer>
       <offer id="142">
-        <price>42000</price>
+        <price>44000</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <name>iPad 11 2025 256 Wi-fi Silver</name>
@@ -1052,7 +1052,7 @@
         <picture>https://avatars.mds.yandex.net/get-sprav-products/1530321/2a0000019942ad12edc0c9adc3aab6197a78/orig</picture>
       </offer>
       <offer id="143">
-        <price>42000</price>
+        <price>44000</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <name>iPad 11 2025 256 Wi-fi Blue</name>
@@ -1060,7 +1060,7 @@
         <picture>https://avatars.mds.yandex.net/get-sprav-products/2413620/2a0000019943825d371af45f25462e4a9aad/orig</picture>
       </offer>
       <offer id="144">
-        <price>38000</price>
+        <price>39000</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <name>iPad 11 2025 128 Wi-fi pink</name>
@@ -1068,12 +1068,20 @@
         <picture>https://avatars.mds.yandex.net/get-sprav-products/13944716/2a0000019942dca4e2a246706a184d1b6847/orig</picture>
       </offer>
       <offer id="145">
-        <price>38000</price>
+        <price>39000</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
         <name>iPad 11 2025 128 Wi-fi Blue</name>
         <description>Новый, запечатаный товар, по лучшей цене!</description>
         <picture>https://avatars.mds.yandex.net/get-sprav-products/2413620/2a0000019943825d371af45f25462e4a9aad/orig</picture>
+      </offer>
+      <offer id="146">
+        <price>40500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPad 11 2025 128 wi-fi silver</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/1530321/2a0000019942ad12edc0c9adc3aab6197a78/orig</picture>
       </offer>
       <offer id="147">
         <price>29000</price>
