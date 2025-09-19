@@ -267,6 +267,14 @@
         <description>Новый, запечатаный товар, по лучшей цене!</description>
         <picture>https://avatars.mds.yandex.net/get-sprav-products/2760763/2a0000019942c92c993f51eebe1dec17e197/orig</picture>
       </offer>
+      <offer id="33">
+        <price>79000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>iPhone 16 256 teal</name>
+        <description>Новый, запечатаный товар, по лучшей цене!</description>
+        <picture>https://avatars.mds.yandex.net/get-sprav-products/2701203/2a000001991fcf37b9e69bd381bb3c527030/orig</picture>
+      </offer>
       <offer id="34">
         <price>79000</price>
         <currencyId>RUB</currencyId>
